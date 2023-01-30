@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Luke-Rand
 - 👀 I’m interested in scripting and building tools
-- 🌱 I’m currently learning Full Stack development
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 🌱 I’m currently learning full stack development and DevOps
 - 📫 How to reach me: my DMs
 
 <!---
